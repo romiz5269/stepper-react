@@ -1,1 +1,1 @@
-export {Stepper} from './components/stapper/Stepper'
+export * from './Stepper'

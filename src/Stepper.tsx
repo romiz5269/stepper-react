@@ -1,6 +1,6 @@
 import {FC} from 'react'
 import styled, { css } from 'styled-components'
-import { LeftConnector, RightConnector, StepCaption, StepCircle, StepContainer, StepContent, StepperContainer, StepperWrapper } from '../../dist/styles/StylesComponent'
+import { LeftConnector, RightConnector, StepCaption, StepCircle, StepContainer, StepContent, StepperContainer, StepperWrapper } from './StylesComponent'
 
 interface StepperProps {
     steps: [],
